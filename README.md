@@ -7,7 +7,7 @@ This Terraform configuration files demonstrate provisioning for [Amazon EC2 auto
 1. [Terraform](https://www.terraform.io/)
 2. [Amazon Web Services account](https://aws.amazon.com/free/)
 3. [Identity and Access Management (IAM) for your Terraform service account](https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180#a9b0)
-4. [Amazon Web Service Command Line Interface (CLI)](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
+4. [Amazon Web Services Command Line Interface (CLI)](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
 
 ## Requirements
 
